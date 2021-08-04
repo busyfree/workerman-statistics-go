@@ -1,4 +1,4 @@
-package workerman_statistics_go
+package workerman
 
 import (
 	"bytes"
